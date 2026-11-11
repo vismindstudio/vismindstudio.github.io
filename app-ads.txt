@@ -1,0 +1,2 @@
+# Authorized sellers for Vismind Studio apps (IAB app-ads.txt).
+google.com, pub-2591675470719472, DIRECT, f08c47fec0942fa0
